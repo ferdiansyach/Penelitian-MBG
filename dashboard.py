@@ -16,6 +16,7 @@ from imblearn.pipeline import Pipeline as ImbPipeline
 from wordcloud import WordCloud
 import plotly.express as px
 import plotly.graph_objects as go
+import matplotlib.pyplot as plt
 
 warnings.filterwarnings('ignore')
 
